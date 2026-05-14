@@ -26,8 +26,7 @@ This project explores how dialect-specific text can be processed and translated 
 - Python
 - Pandas
 - NumPy
-- (Add any additional NLP libraries you used)
-
+  
 ## Challenges
 - Dialect spelling inconsistencies
 - Limited structured Najdi datasets
